@@ -1,7 +1,5 @@
 <?php
 
-require 'vendor/autoload.php';
-
 use Ngmy\ProconLib\Math\Combinatorics;
 
 class CombinatoricsTest extends PHPUnit_Framework_TestCase
